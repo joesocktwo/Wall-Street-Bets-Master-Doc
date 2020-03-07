@@ -1,3 +1,8 @@
 This document is for the collation and analysis of the repo market, including federal repo operations.
 
 Data must be cited with a URL. 
+
+**What is the repo market? What is reverse repo?**
+
+A repurchase agreement (repo) is a short-term secured loan: one party sells securities to another and agrees to repurchase those securities later at a higher price.The securities serve as collateral. The difference between the securities’ initial price and their repurchase price is the interest paid on the loan, known as the repo rate. A reverse repurchase agreement (reverse repo) is the mirror of a repo transaction. In a reverse repo, one party purchases securities and agrees to sell them back for a positive return at a later date, often as soon as the next day. Most repos are overnight, though they can be longer (Cheng, 2020). -https://www.brookings.edu/blog/up-front/2020/01/28/what-is-the-repo-market-and-why-does-it-matter/
+
