@@ -6,4 +6,4 @@
 
 A repurchase agreement (repo) is a short-term secured loan: one party sells securities to another and agrees to repurchase those securities later at a higher price.The securities serve as collateral. The difference between the securities’ initial price and their repurchase price is the interest paid on the loan, known as the repo rate. A reverse repurchase agreement (reverse repo) is the mirror of a repo transaction. In a reverse repo, one party purchases securities and agrees to sell them back for a positive return at a later date, often as soon as the next day. Most repos are overnight, though they can be longer (Cheng, 2020). -https://www.brookings.edu/blog/up-front/2020/01/28/what-is-the-repo-market-and-why-does-it-matter/
 
-## [Roiled Repo Markets: Looking for Answers in All the Wrong Places](Roiled Repo Markets: Looking for Answers in All the Wrong Places) by Yves Smith
+## [Roiled Repo Markets: Looking for Answers in All the Wrong Places](https://www.nakedcapitalism.com/2019/11/roiled-repo-markets-looking-for-answers-in-all-the-wrong-places.html) by Yves Smith
