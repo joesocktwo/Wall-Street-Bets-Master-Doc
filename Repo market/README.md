@@ -5,9 +5,9 @@ This document is for the collation and analysis of the repo market, including fe
 #### Data must be cited with a URL. 
 
 
-Repo market has a turnover of $1-2T a day and it's a huge part of the financial system and isn't something you would think about until it stops working properly.
-
 ### What's repo?
+
+Repo market has a turnover of $1-2T a day and it's a huge part of the financial system and isn't something you would think about until it stops working properly. 
 
 Repurchase agreement (repo) is a form of short-term borrowing (often overnight) where two parties agree to the sale and future repurchase of a security.
 
