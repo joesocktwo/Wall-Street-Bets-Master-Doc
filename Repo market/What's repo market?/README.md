@@ -28,3 +28,4 @@ Borrowers:
 - martgage REITs
 - brokers
 
+source: https://www.youtube.com/watch?v=I9UIumKX7Mw
