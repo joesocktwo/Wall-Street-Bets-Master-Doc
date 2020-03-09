@@ -24,4 +24,4 @@ I really appreciate your time and enthusiasm, guys. I'm stunned that I was met w
 
 To be invited as a collaborator, go to the issues section and respond to one of the discussions. Thanks.
 
-Please join the discord (https://discord.gg/kZ5kqG) for realtime coordination. Going to start breaking people up into teams.
+Please join the discord (https://discord.gg/EDt24vu) for realtime coordination. Going to start breaking people up into teams.
