@@ -6,7 +6,7 @@ Banca Monte dei Paschi di Siena (BMPS or MPS) is an Italian bank. Tracing its hi
 
 https://www.gruppomps.it/static/upload/pr_/pr_gmps_4q19_results_eng_final.pdf
 
-All values in millions of euros
+All values in millions of euros unless specified otherwise.
 
 ### Income from banking activities 
 
@@ -21,7 +21,7 @@ Net profit (loss) from trading and financial assets/liabilities measured at amor
 - 2019 - 261.6
 - 2018 - (13.0) - not sure what this means
 
-### Liquidity Coverage Ratio
+### Liquidity Coverage Ratio (%)
 
 - 2019 - 152.4
 - 2018 - 190.2
