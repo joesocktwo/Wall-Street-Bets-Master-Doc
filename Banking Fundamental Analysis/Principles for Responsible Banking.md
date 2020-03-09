@@ -10,6 +10,18 @@ They are accelerating the banking industry’s contribution to achieving society
 
 The Principles for Responsible Banking were launched by 130 banks from 49 countries, representing more than USD47 trillion in assets.
 
+## Commentary
+
+Basically the banks agreed to not take part in certain business activities, like:
+
+> Paris-based BNP Paribas said in March that it would be **pulling 1 billion euros out of coal stocks**. London-based HSBC said last year that it **no longer lends to the coal industry or its customers**.
+
+> Major financial institutions such as Barclays, SunTrust, Bank of America, JPMorgan Chase and Wells Fargo have announced **they will stop financing operators of private prisons** amid an increase in activity along the U.S.'s southern border that has put a spotlight on immigrant detention centers and the banks that finance them.
+
+> Banks have also shifted their stance on lending to the shipping industry in an attempt to **cut carbon dioxide emissions**. In June, 11 banks that lend to shipping lines said they will integrate climate impact into the criteria that determines how much a shipping company can borrow, according to CNBC.
+
+## List of banks
+
 Complete list of Founding Signatories to the Principles for Responsible Banking
 
     1. ABANCA
