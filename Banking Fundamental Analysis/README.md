@@ -16,6 +16,10 @@ Capital holdings (Equity and Debt, if possible)
 Income to debt ratios
 Minimum requirements for collateral - either base requirements by policy **OR** if you are able to find the actual holdings, the riskiest and the safest holding(s) they have.
 
+Here's a really good example of what should be included in each file. Adwydman did well :)
+
+https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20Fundamental%20Analysis/Banca%20Monte%20dei%20Paschi%20di%20Siena.md
+
 **Timeline:**
 
 *Tuesday, March 10th, 2020 End of Day (11:59pm EST):*
