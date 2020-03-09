@@ -11,7 +11,7 @@ Banca Monte dei Paschi di Siena (BMPS or MPS) is an Italian bank. Tracing its hi
 
 ## Recent news
 
-### Ardian Real Estate has signed an agreement with Banca Monte dei Paschi di Siena
+### Ardian Real Estate has signed an agreement with Banca Monte dei Paschi di Siena (Feb 28 2020)
 
 https://www.milanofinanza.it/news/ardian-real-estate-ha-firmato-un-accordo-con-banca-monte-dei-paschi-di-siena-202002281504175308
 
