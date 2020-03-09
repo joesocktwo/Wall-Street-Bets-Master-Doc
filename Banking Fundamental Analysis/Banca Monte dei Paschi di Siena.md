@@ -10,46 +10,46 @@ All values in millions of euros
 
 ### Income from banking activities 
 
-2019 - 2,950.8
-2018 - 3,266.1
-Change - -9.7%
+- 2019 - 2,950.8
+- 2018 - 3,266.1
+- Change - -9.7%
 
 ### Trading Liabilities
 
 Net profit (loss) from trading and financial assets/liabilities measured at amortised cost and at fair value through profit and loss
 
-2019 - 261.6
-2018 - (13.0) - not sure what this means
+- 2019 - 261.6
+- 2018 - (13.0) - not sure what this means
 
 ### Liquidity Coverage Ratio
 
-2019 - 152.4
-2018 - 190.2
-Change - -37.8%
+- 2019 - 152.4
+- 2018 - 190.2
+- Change - -37.8%
 
 ### Loans to customers
 
-2019 - 88,985.1
-2018 - 86,855.5
-Change - 2.5%
+- 2019 - 88,985.1
+- 2018 - 86,855.5
+- Change - 2.5%
 
 ### Group net equity
 
-2019 - 8,279.1
-2018 - 8,992.0
-Change - -7.9%
+- 2019 - 8,279.1
+- 2018 - 8,992.0
+- Change - -7.9%
 
 ### R.O.E. (on average equity)
 
-2019 - -12.0
-2018 - 2.9
-Change - -14.9%
+- 2019 - -12.0
+- 2018 - 2.9
+- Change - -14.9%
 
 ### Net non-performing loans / Loans to Customers
 
-2019 - 6.8
-2018 - 9.0
-Change - -2.2%
+- 2019 - 6.8
+- 2018 - 9.0
+- Change - -2.2%
 
 
 ## What I learnt
