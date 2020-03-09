@@ -16,7 +16,7 @@ Some tentative deadlines I'd like to set for each of the steps are
 
 I'd like semi-regular check-ins with progress. Say, a minimum of once a week, perhaps Saturday. More often isn't worse. You don't necessarily have to add to the document directly; you can report it to me or another member who's willing to compile it and write it up in a nice, legible fashion. 
 
-I want to nominate a few people to take point on the various aspects of this project; I'll reach out to people by DM to ask them if they're up for it. So far, technicalANAList has agreed to lead the TA team. 
+I want to nominate a few people to take point on the various aspects of this project; I'll reach out to people by DM to ask them if they're up for it. So far, technicalANAList has agreed to lead the TA team. Cannabiz-420 (Ti-84 on discord) will head the FA team. Beethoven is on top of Macro trends. They're tasked with outlining objectives for your team, cooperating with other team leaders, and generally managing the workflow within their unit. 
 
 If you have any concerns, comments, questions, or suggestions, please feel free to hit me up on discord or on Reddit.
 
