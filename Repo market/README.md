@@ -2,14 +2,14 @@
 
 This document is for the collation and analysis of the repo market, including (but not limited to) federal repo operations.
 
-#### Data must be cited with a URL. 
+#### Data must be cited with a URL.
 
 
-### What's Repo?
+### What's repo?
+
+Repo market has a turnover of $1-2T a day and it's a huge part of the financial system and isn't something you would think about until it stops working properly.
 
 Repurchase agreement (repo) is a form of short-term borrowing (often overnight) where two parties agree to the sale and future repurchase of a security.
-
-The Repo market plays a huge part in the american financial system (Turnover rate of $1-2T per day), and it is not something one would think about until it stops working properly.  
 
 Example:
 John wants to borrow $400 from Tim. Tim says alright, but he wants $404 back in 48 hours (1% interest). In addition to the 1% interest rate, John agrees to give Tim his new PS4 (as collateral) in case John is not able to repay his loan.
@@ -35,6 +35,12 @@ Borrowers typically comprise of the following:
 - Brokers
 
 source: https://www.youtube.com/watch?v=I9UIumKX7Mw
+
+## Account Rules for Repo Markets
+
+On June 12, 2014 the Financial Accounting Standards Board (FASB) issued [Accounting Standards Update No. 2014-11, Transfers and Servicing (Topic 860): Repurchase-to-Maturity Transactions, Repurchase Financings, and Disclosures. (see page 34)](https://www.fasb.org/jsp/FASB/Document_C/DocumentPage?cid=1176164126488&acceptedDisclaimer=true)
+
+These rules should be used when analyzing a companies balance sheet to determine it's exposure to the repo market.
 
 ### September 2019 repo rates blowup
 
@@ -63,3 +69,4 @@ If these banks even marginally reduced their lending, the market could suffer de
 Additionally, since 2008, banks have to satisfy liquidy regulations, such as the **Liqudity Coverage Ratio (LCR)** (a part of the [Basel III](https://www.bis.org/bcbs/basel3.htm) that requires banks to hold a certain amount of reserves. This means that even if a bank has the reserves, they can't lend it out to the repo market to satisfy the regulation.
 
 source: https://www.youtube.com/watch?v=URvok29rf-w
+
