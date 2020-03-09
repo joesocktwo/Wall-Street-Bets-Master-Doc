@@ -1,62 +1,69 @@
 ## Overview
 
-Banca Monte dei Paschi di Siena (BMPS or MPS) is an Italian bank. Tracing its history to a mount of piety founded in 1472 (548 years ago) and founded in its present form in 1624 (396 years ago), it is the world's oldest or second oldest bank, depending on the definition, and the fourth largest Italian commercial and retail bank.
+Banca Monte dei Paschi di Siena (BMPS or MPS) is an Italian bank. Tracing its history to Piety Mountain, the bank was founded in 1472 (548 years ago), but was founded again in its present form in 1624 (396 years ago), it is one of the world's oldest banks and is the fourth largest Italian commercial and retail bank.
 
 ## Financial Report
 
 https://www.gruppomps.it/static/upload/pr_/pr_gmps_4q19_results_eng_final.pdf
 
-All values in millions of euros unless specified otherwise.
+*All values in millions of euros unless specified otherwise.*
 
 ### Income from banking activities 
 
 - 2019 - 2,950.8
 - 2018 - 3,266.1
-- Change - -9.7%
+
+- Change - (9.7%)
 
 ### Trading Liabilities
 
 Net profit (loss) from trading and financial assets/liabilities measured at amortised cost and at fair value through profit and loss
 
 - 2019 - 261.6
-- 2018 - (13.0) - not sure what this means
+- 2018 - (13.0)
 
 ### Liquidity Coverage Ratio (%)
 
 - 2019 - 152.4
 - 2018 - 190.2
-- Change - -37.8%
+
+- Change - (37.8%)
 
 ### Loans to customers
 
 - 2019 - 88,985.1
 - 2018 - 86,855.5
+
 - Change - 2.5%
 
 ### Group net equity
 
 - 2019 - 8,279.1
 - 2018 - 8,992.0
-- Change - -7.9%
+
+- Change - (7.9%)
 
 ### R.O.E. (on average equity)
 
-- 2019 - -12.0
+- 2019 - (12.0)
 - 2018 - 2.9
+
 - Change - -14.9%
 
 ### Net non-performing loans / Loans to Customers
 
 - 2019 - 6.8
 - 2018 - 9.0
-- Change - -2.2%
+
+- Change - (2.2%)
 
 
-## What I learnt
+## Good-to-know
 
 - Bank of Italy bailed BMPS out in 2013 because of an hidden derivatives scandal [link](https://en.wikipedia.org/wiki/Banca_Monte_dei_Paschi_di_Siena#Hidden_losses_and_Bank_of_Italy_bailout_(2013))
+
 - Currently the Italian government holds 68% of the capital of Monte dei Paschi di Siena. 
-- The bank reported losses of 1 billion euros in 2019
+- In 2019, the bank reported losses of 1 billion euros.
 
 
 ## Recent news
@@ -65,7 +72,7 @@ Net profit (loss) from trading and financial assets/liabilities measured at amor
 
 https://www.milanofinanza.it/news/ardian-real-estate-ha-firmato-un-accordo-con-banca-monte-dei-paschi-di-siena-202002281504175308
 
-(Liqudity issues? - adwydman)
+**[Possible Liquidity Check here]**
 
 > Ardian, the world's leading private investment company, has signed an agreement with Banca Monte dei Paschi di Siena for the acquisition of a portfolio of 28 properties owned by the MPS Group . The agreement was concluded after a competitive procedure which started in July 2019 and after an exclusive period granted to Ardian on 10 February.
 
@@ -83,9 +90,9 @@ https://www.borsamagazine.it/informazioni-strategiche/monte-dei-paschi-di-siena-
 
 > The balance sheet of the Monte dei Paschi di Siena bank is under the lens after the publication of the 2019 financial results . Little more than 3 years have passed since that fateful capital increase, at the time the government needed to set up a 20 billion euro fund to save MPS and other troubled credit institutions.
 
-> The losses of Monte dei Paschi di Siena in 2019 are expected to exceed € 1 billion . Furthermore, this is not an unexpected figure, but also according to analysts who estimated the red of Mps between 900 million euros and 1.29 billion euros .
+> The losses of Monte dei Paschi di Siena in 2019 are expected to exceed €1 billion. Furthermore, this is not an unexpected figure, but also according to analysts who estimated the red of Mps between 900 million euros and 1.29 billion euros.
 
-> Finally, again with regards to revenues, we report a drop of 27% compared to the previous fiscal year, the turnover stands at 3.22 billion euros .
+> Finally, the banks reports a drop of 27% compared to the previous fiscal year, the turnover stands at 3.22 billion euros .
 
 ### Monte Paschi CEO Won’t Seek New Term After April Meeting (Feb 20 2020)
 
