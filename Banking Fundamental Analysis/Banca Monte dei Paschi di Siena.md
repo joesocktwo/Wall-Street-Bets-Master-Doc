@@ -48,7 +48,7 @@ Net profit (loss) from trading and financial assets/liabilities measured at amor
 - 2019 - (12.0)
 - 2018 - 2.9
 
-- Change - -14.9%
+- Change - (14.9%)
 
 ### Net non-performing loans / Loans to Customers
 
