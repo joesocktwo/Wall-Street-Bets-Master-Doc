@@ -2,12 +2,12 @@
 
 This document is for the collation and analysis of the repo market, including federal repo operations.
 
-#### Data must be cited with a URL. 
+#### Data must be cited with a URL.
 
 
 ### What's repo?
 
-Repo market has a turnover of $1-2T a day and it's a huge part of the financial system and isn't something you would think about until it stops working properly. 
+Repo market has a turnover of $1-2T a day and it's a huge part of the financial system and isn't something you would think about until it stops working properly.
 
 Repurchase agreement (repo) is a form of short-term borrowing (often overnight) where two parties agree to the sale and future repurchase of a security.
 
@@ -34,3 +34,9 @@ Borrowers:
 - brokers
 
 source: https://www.youtube.com/watch?v=I9UIumKX7Mw
+
+## Account Rules for Repo Markets
+
+On June 12, 2014 the Financial Accounting Standards Board (FASB) issued [Accounting Standards Update No. 2014-11, Transfers and Servicing (Topic 860): Repurchase-to-Maturity Transactions, Repurchase Financings, and Disclosures. (see page 34)](https://www.fasb.org/jsp/FASB/Document_C/DocumentPage?cid=1176164126488&acceptedDisclaimer=true)
+
+These rules should be used when analyzing a companies balance sheet to determine it's exposure to the repo market.
