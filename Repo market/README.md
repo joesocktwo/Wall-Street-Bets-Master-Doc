@@ -38,28 +38,28 @@ source: https://www.youtube.com/watch?v=I9UIumKX7Mw
 
 ### September 2019 repo rates blowup
 
-Repo market isn't a volitile one, the rates (interest on the loans) are usually around 1-2%. However in the middle of September 2019 the repo rates shot up from 2% to 10% within a week:
+The Repo market typically isn't volitile. The repo rates (interest on the loans) typically sit around 1-2%. However, in September 2019 repo rates shot up from 2% to 10% over the course of a week:
 
 ![Repo rates surge](https://i.imgur.com/yx1XEdk.png)
 
-The reason for the surge is simple: the lenders suddenly decided no to lend the money (because of liquidity issues), so the supply was decreased, while the demand for the money increased.
+The cause of the surge was simple: lenders chose not to lend money (due to liquidity issues) to the repo, which led to a decrease in supply of money, while the demand for money increased.
 
 The fed explained that the supply was cut down because of two reasons:
 
-1. Corporate Tax Payments drained the repo market of liquidity
+1. Corporate Tax Payments drained the repo market of liquidity and
 2. The repo market was used to finance an unusually large Settlement of Treasure Debt Auctions
 
-However [Bank for International Settlements](https://www.bis.org/) in their document [September stress in dollar repo markets: passing or structural?](https://www.bis.org/publ/qtrpdf/r_qt1912v.htm) stated that the above reasons may have contributed to the spike in repo rates. They focused on other more alarming reasons:
+However, the [Bank for International Settlements](https://www.bis.org/) in a publication, [September stress in dollar repo markets: passing or structural?](https://www.bis.org/publ/qtrpdf/r_qt1912v.htm) stated that the above reasons may have merely contributed to the spike in repo rates. However, they focused on more alarming reasons:
 
-US repo markets currently rely heavily on four banks as marginal lenders:
+The US repo markets heavily rely on four banks as marginal lenders:
 
-1. J.P. Morgan
-2. Bank of America
-3. Citi Group
-4. Wells Frago
+1. J.P. Morgan (NYSE: $JPM)
+2. Bank of America (NYSE: $BAC)
+3. Citi Group (NYSE: $C)
+4. Wells Frago (NYSE: $WFC)
 
-If these banks even slightly reduce their lending, the market will suffer massively. However these banks have their own commercial interests, they can't be as relied on as a central bank.
+If these banks even marginally reduced their lending, the market could suffer devestating outcomes. However, these banks have their own commercial interests and cannot be as relied on as a central bank.
 
-On top of that, since 2008 banks have to satisfy liquidy regulations, such as **Liqudity Coverage Ratio (LCR)** (a part of the [Basel III](https://www.bis.org/bcbs/basel3.htm) that requires them to hold a certain amount of reserves. Meaning that even though a bank has the reserves, they can't lend it out to the repo market to satisfy the regulation.
+Additionally, since 2008, banks have to satisfy liquidy regulations, such as the **Liqudity Coverage Ratio (LCR)** (a part of the [Basel III](https://www.bis.org/bcbs/basel3.htm) that requires banks to hold a certain amount of reserves. This means that even if a bank has the reserves, they can't lend it out to the repo market to satisfy the regulation.
 
 source: https://www.youtube.com/watch?v=URvok29rf-w
