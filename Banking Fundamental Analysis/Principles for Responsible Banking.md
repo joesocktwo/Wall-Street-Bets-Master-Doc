@@ -20,6 +20,8 @@ Basically the banks agreed to not take part in certain business activities, like
 
 > Banks have also shifted their stance on lending to the shipping industry in an attempt to **cut carbon dioxide emissions**. In June, 11 banks that lend to shipping lines said they will integrate climate impact into the criteria that determines how much a shipping company can borrow, according to CNBC.
 
+source: https://www.bankingdive.com/news/responsible-loans-jump-40-as-banks-take-green-social-stances/562227/
+
 ## List of banks
 
 Complete list of Founding Signatories to the Principles for Responsible Banking
