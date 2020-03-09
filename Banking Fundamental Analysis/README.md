@@ -26,7 +26,57 @@ https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20
 - I wanna be able to at least breakdown the balance sheets. *Let me know if that's no possible and I'll help you work on that.* 
 
 *Friday, March 13th, 2020 End of Day (11:59pm EST):*
-- Try to be done with the Top 3 Italian banks' analysis.
+- Try to be done with the following countries:
+- [ ] South Korean (1)
+  - TBD
+- [ ] French (2)
+  - TBD
+  - TBD
+- [ ] German (2)
+  - TBD
+  - TBD
+- [ ] English (2)
+  - TBD
+  - TBD
+- [ ] Argentinian (2)
+  - TBD
+  - TBD
+- [ ] []Spanish (3)
+  - TBD
+  - TBD
+  - TBD
+- [x] Italian (2)
+  - Banca Monte Dei Paschi Di Siena
+  - Banca Carige
+- [ ] Brazilian (3)
+  - TBD
+  - TBD
+  - TBD
+- [ ] Chinese (3)
+  - TBD
+  - TBD
+  - TBD
+- [ ] Japanese (3)
+  - TBD
+  - TBD
+  - TBD
+- [ ] Columbian (3)
+  - TBD
+  - TBD
+  - TBD
+- [ ] Venezuelan (3)
+  - TBD
+  - TBD
+  - TBD
+- [ ] Indian (6)
+  - Bank of India
+  - HDFC
+  - ICICI
+  - Axis Bank
+  - Kotak Mahindra Bank
+  - IndusInd Bank
+
+
 
 *Saturday, March 14th, 2020 End of Day (11:59pm EST):*
 - Will try to have empirical data summarized into readable format. 
