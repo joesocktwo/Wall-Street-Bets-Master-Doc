@@ -14,7 +14,7 @@ Specifically looking for banks experiencing liquidity issues.
 Stress tests
 Capital holdings (Equity and Debt, if possible)
 Income to debt ratios
-Minimum requirements for collateral - either base requirements by policy **OR** if you are able to find the actual holdings, the riskiest holding they have.
+Minimum requirements for collateral - either base requirements by policy **OR** if you are able to find the actual holdings, the riskiest and the safest holding(s) they have.
 
 **Timeline:**
 *Tuesday, March 10th, 2020 End of Day (11:59pm EST):*
