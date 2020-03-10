@@ -78,7 +78,11 @@ Balance Sheet data below is from the FY ending 31 March 2019.
 
 **LCR 31st Dec 2019** – 116.22%
 
+**LCR 30th Sep 2019** – 120.70%
+
 **HQLA 31st Dec 2019** 610,000,000
+
+**HQLA 30th Sep 2019** 554,571,000
 
 ### Shareholdings
 
