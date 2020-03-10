@@ -9,6 +9,7 @@ https://www.kotak.com/en/investor-relations/financial-results/annual-reports.htm
 
 Basel III: https://www.kotak.com/en/investor-relations/financial-results/regulatory-disclosure.html
 
+Balance Sheet data below is from the FY ending 31 March 2019. 
  
 ## Balance Sheet (INR thousands)
 
