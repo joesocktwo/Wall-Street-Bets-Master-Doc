@@ -56,7 +56,7 @@ Net profit (loss) from trading and financial assets/liabilities measured at amor
 
 ## Recent news
 
-### Banca Ccirage is asking for compensation of 420 mln euro (Jan 16 2020)
+### Banca Carige is asking for compensation of 420 mln euro (Jan 16 2020)
 
 https://www.ilfattoquotidiano.it/2020/01/16/banca-carige-malacalza-presenta-una-richiesta-di-risarcimento-da-480-milioni/5675982/
 
