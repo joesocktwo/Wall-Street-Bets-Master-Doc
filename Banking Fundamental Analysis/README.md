@@ -72,7 +72,7 @@ https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20
   - ~~Bank of India (confusedperson)~~
   - ~~HDFC (Carl Icahn)~~
   - ~~ICICI (Adwydman)~~
-  - ~~Axis Bank (RaphizZ)~~
+  - Axis Bank (RaphizZ)
   - ~~Kotak Mahindra Bank (identiti)~~
   - IndusInd Bank
 
