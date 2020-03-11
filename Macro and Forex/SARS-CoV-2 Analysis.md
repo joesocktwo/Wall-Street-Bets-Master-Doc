@@ -1,7 +1,7 @@
 This document contains analysis regarding the impact of SARS-CoV-2 on economic infrastructure. Analysis will be geared toward actionable information. 
 Please ping Jellyra#1844 with corrections, questions, or research requests. 
 
-Please consult this page for raw case numbers: https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/ 
+Please consult this page for raw case numbers: https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6 
 
 As it stands, estimates indicate that **4/10** and **4/28** will be the breaking points at which our ICUs, followed by entire hospitals, will be overwhelmed. This is subject to change, and could be pushed back or averted, especially if national or state-level quarantine is instituted. Additionally, this estimate is specific to the United States. International figures vary.
 
@@ -15,3 +15,7 @@ New York Governor Cuomo has deployed the National Guard to NYC to establish a co
 https://www.cnbc.com/2020/03/10/new-york-gov-cuomo-to-deploy-national-guard-to-new-rochelle-establishes-containment-center-to-stem-coronavirus.html
 
 Democratic candidates Bernie Sanders and Joe Biden have cancelled Ohio rallies in the wake of Coronavirus concerns. This is the first meaningful, direct  impact that SARS-CoV-2 has had on the 2020 election. 
+
+**3/11**
+
+Raw case numbers: The source is directly from John Hopkins University, which is more updated then the link above. Changed link
