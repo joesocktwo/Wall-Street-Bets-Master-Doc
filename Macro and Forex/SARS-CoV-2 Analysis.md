@@ -19,3 +19,6 @@ Democratic candidates Bernie Sanders and Joe Biden have cancelled Ohio rallies i
 **3/11**
 
 Raw case numbers: The source is directly from John Hopkins University, which is more updated then the link above. Changed link
+
+U.S passed 1,000 Coronavirus Cases : https://www.politico.com/news/2020/03/10/coronavirus-cases-united-states-125233
+
