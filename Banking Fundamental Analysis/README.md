@@ -33,23 +33,24 @@ https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20
   - TBD
   - TBD
 - [ ] German (2)
-  - TBD
-  - TBD
+  - Commerzbank
+  - Deutsche Bank
 - [ ] English (2)
-  - TBD
-  - TBD
+  - Standard Charter
+  - Barclays
+  - HSBC Holdings
 - [ ] Argentinian (2)
   - TBD
   - TBD
-- [ ] []Spanish (3)
-  - TBD
+- [ ] Spanish (3)
+  - Banco Sabadell
   - TBD
   - TBD
 - [x] Italian (2)
   - ~~Banca Monte Dei Paschi Di Siena (Adwydman)~~
   - ~~Banca Carige (Hamala_Flynn)~~
 - [ ] Brazilian (3)
-  - TBD
+  - Banco Do Brasil
   - TBD
   - TBD
 - [ ] Chinese (3)
@@ -74,8 +75,7 @@ https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20
   - ~~ICICI (Adwydman)~~
   - Axis Bank (RaphizZ)
   - ~~Kotak Mahindra Bank (identiti)~~
-  - IndusInd Bank
-
+  - ~~IndusInd Bank (lazerwolz)~~
 
 
 *Saturday, March 14th, 2020 End of Day (11:59pm EST):*
