@@ -46,8 +46,8 @@ https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20
   - TBD
   - TBD
 - [x] Italian (2)
-  - Banca Monte Dei Paschi Di Siena (Adwydman)
-  - Banca Carige (Hamala_Flynn)
+  - ~~Banca Monte Dei Paschi Di Siena (Adwydman)~~
+  - ~~Banca Carige (Hamala_Flynn)~~
 - [ ] Brazilian (3)
   - TBD
   - TBD
@@ -69,11 +69,11 @@ https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20
   - TBD
   - TBD
 - [ ] Indian (6)
-  - Bank of India (confusedperson)
-  - HDFC (Carl Icahn)
-  - ICICI (Adwydman)
-  - Axis Bank (RaphizZ)
-  - Kotak Mahindra Bank (identiti)
+  - ~~Bank of India (confusedperson)~~
+  - ~~HDFC (Carl Icahn)~~
+  - ~~ICICI (Adwydman)~~
+  - ~~Axis Bank (RaphizZ)~~
+  - ~~Kotak Mahindra Bank (identiti)~~
   - IndusInd Bank
 
 
