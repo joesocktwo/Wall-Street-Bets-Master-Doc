@@ -1,12 +1,12 @@
 This document contains analysis regarding the impact of SARS-CoV-2 on economic infrastructure. Analysis will be geared toward actionable information. 
 Please ping Jellyra#1844 with corrections, questions, or research requests. 
 
-Please consult this page for raw case numbers: https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/
+Please consult this page for raw case numbers: https://www.kff.org/global-health-policy/fact-sheet/coronavirus-tracker/ 
 
-As it stands, the United States has suffered 0 ICU overflows and has not instituted significant mandatory quarantine. 
+As it stands, estimates indicate that **4/10** and **4/28** will be the breaking points at which our ICUs, followed by entire hospitals, will be overwhelmed. This is subject to change, and could be pushed back or averted, especially if national or state-level quarantine is instituted. Additionally, this estimate is specific to the United States. International figures vary.
 
 --------------------------------------------------------------------------------------------------------------------
-3/10
+**3/10**
 
 The United States runs the risk of running out of testing reagents. This could result in a decrease in testing and testing accuracy. At this crucial point in the development of the pandemic, being unable to identify emerging outbreaks will lead to massive volatility in both our practical and economic response. 
 https://www.politico.com/news/2020/03/10/coronavirus-testing-lab-materials-shortage-125212
