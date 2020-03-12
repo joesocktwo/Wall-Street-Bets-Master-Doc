@@ -29,13 +29,13 @@ https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20
 - Try to be done with the following countries:
 - [ ] South Korean (1)
   - TBD
-- [ ] French (2)
-  - TBD
-  - TBD
+- [x] French (2)
+  - ~~BNP Paribas~~
+  - ~~Credit Agricole~~
 - [ ] German (2)
   - Commerzbank
   - Deutsche Bank
-- [ ] English (2)
+- [ ] English (3)
   - Standard Charter
   - Barclays
   - HSBC Holdings
