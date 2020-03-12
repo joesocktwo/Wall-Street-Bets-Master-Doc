@@ -30,8 +30,8 @@ https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20
 - [ ] South Korean (1)
   - TBD
 - [x] French (2)
-  - ~~BNP Paribas~~
-  - ~~Credit Agricole~~
+  - ~~BNP Paribas (Hamala_Flynn)~~
+  - ~~Credit Agricole (Hamala_Flynn)~~
 - [ ] German (2)
   - Commerzbank
   - Deutsche Bank
