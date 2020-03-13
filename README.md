@@ -1,3 +1,6 @@
+# UPDATE: We've moved the official repository. Please make all further contributions here: https://github.com/WSB-research/Wall-Street-Bets-Master-Doc
+
+## No pull requests or contributions will be accepted here, and the repository will go down soon.
 # Wall-Street-Bets-Master-Doc
 Hey, guys. Welcome to the GitHub page. We'll be splitting it up into a few different sections, depending on area of research. 
 
