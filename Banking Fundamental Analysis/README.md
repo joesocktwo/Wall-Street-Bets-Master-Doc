@@ -37,7 +37,7 @@ https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20
   - Deutsche Bank
 - [ ] English (3)
   - Standard Charter
-  - Barclays
+  - Barclays (Adwydman)
   - HSBC Holdings
 - [ ] Argentinian (2)
   - TBD
