@@ -22,4 +22,11 @@ If you have any concerns, comments, questions, or suggestions, please feel free 
 
 I really appreciate your time and enthusiasm, guys. I'm stunned that I was met with such a flood of excited talent; you guys are experts and actual powerhouses in each of your fields. It's impressive, and I'm really happy to be a part of this. I'm going to do my best here to keep morale up and attention focused; the death of this project will be waning enthusiasm. I don't want to act like a boss or a manager, but I do want to keep everyone working towards this goal. Expect to put at least an hour or two of work into this every week to keep the wheels turning. As long as everything keeps flowing, I'll be here nonstop to keep things moving and handle anything that needs handling. I don't know how this is going to turn out, but between the lot of you, there's an incredible pool of potential to tap into and use to our advantage. Let's make some tendies, guys.
 
-To be invited as a collaborator, go to the issues section and respond to one of the discussions. Thanks.
+## Contributing to the Github Repository
+
+1. Create a branch by selecting the branch dropdown, typing a name, and click Create. 
+2. Navigate to the folder or file you want to change. 
+3. Upload files or edit the file you want, and at the bottom, commit it directly to the branch you just created. 
+4. Navigate back to the home page of the repository
+5. You should see the option to create a New Pull Request. Click that, and submit a Pull Request from your new branch into master. 
+6. Your changes will be approved and merged in shortly. 
