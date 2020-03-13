@@ -82,4 +82,5 @@ https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc/blob/master/Banking%20
 - Will try to have empirical data summarized into readable format. 
 
 *Future notes:*
+Test
 We can also examine performance during 2008, how they've held up during recent recessions, and how the housing market has affected them, but that's further down the line. (Italy)
